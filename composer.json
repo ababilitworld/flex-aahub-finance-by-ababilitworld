@@ -1,0 +1,36 @@
+{
+    "name": "ababilitworld/flex-finance-by-ababilitworld",
+    "description": "A package for easing common financial complexities in PHP projects by Ababil IT World.",
+    "keywords": ["php", "finance", "finances"],
+    "type": "library",
+    "license": "MIT",
+    "license_uri": "https://opensource.org/licenses/MIT",
+    "authors": [
+        {
+            "name": "Ababil It World",
+            "email": "ababilitworld@email.com",
+            "homepage": "https://ababilitworld.com/"
+        },
+        {
+            "name": "Md Shafiul Alam",
+            "email": "cse.shafiul@email.com",
+            "homepage": "https://ababilitworld.com/"
+        },
+        {
+            "name": "Premium Addons",
+            "email": "premiumaddons@email.com",
+            "homepage": "https://ababilitworld.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ababilitworld\\FlexAahubFinanceByAbabilitworld\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ababilitworld/flex-finance-by-ababilitworld"
+        }
+    ]
+}
